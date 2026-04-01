@@ -1,6 +1,4 @@
-package Week1.Day2;
 
-import java.sql.DriverAction;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.LinkedList;
@@ -96,7 +94,7 @@ class Phonebook{
 
 
 
-public class Main {
+public class Try {
     public static void main(String[] args){
         Phonebook add = new Phonebook();
         add.addContect(new ContactDetails(987654310, "rahu", "ketu"));
